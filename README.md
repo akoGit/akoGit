@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akoGit
+- 👋 Hi, I’m Alexander.
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-end development
+- 🌱 Learning Vue, SCSS.
 - 📫 How to reach me - ako200029@gmail.com
 
 <!---

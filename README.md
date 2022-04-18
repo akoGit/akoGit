@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander.
 - 👀 I’m interested in Web development
-- 🌱 Learning Vue, SCSS.
+- 🌱 Learning Three.js, GLSL, Pixi.js.
 - 📫 How to reach me - ako200029@gmail.com
 
 <!---

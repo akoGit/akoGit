@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander.
 - 👀 I’m interested in Web development
-- 🌱 Learning Three.js, GLSL, React.
+- 🌱 Learning Three.js, GLSL, React, react-three-fiber.
 - 📫 How to reach me - ako200029@gmail.com
 
 <!---
